@@ -1,0 +1,1 @@
+This repo was created for EDR testing purposes. Do not run any executable files on this repository under any circumstances. I reliquish all responsibility for anyone who does not adhere to this warning. Thank you. 
